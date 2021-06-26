@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_baseline_person_24"
+            android:title="@string/mi_perfil"/>
+
+        <item
+            android:id="@+id/my_clubs"
+            android:icon="@drawable/ic_baseline_history_24"
+            android:title="@string/my_clubs"/>
+
+        <item
+            android:id="@+id/my_matches"
+            android:icon="@drawable/ic_baseline_sports_soccer_24"
+            android:title="@string/my_matches"/>
+
+        <item
+            android:id="@+id/cv_sports"
+            android:icon="@drawable/ic_baseline_workspaces_24"
+            android:title="@string/cv_sports"/>
+
+        <item
+            android:id="@+id/my_club"
+            android:icon="@drawable/ic_baseline_shield_24"
+            android:title="@string/my_club"/>
+
+
+    </group>
+
+
+</menu>

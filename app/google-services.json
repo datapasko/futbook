@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "13869866658",
+    "project_id": "futbook-1611686967918",
+    "storage_bucket": "futbook-1611686967918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13869866658:android:7e312a3a283d50073801fb",
+        "android_client_info": {
+          "package_name": "com.futbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13869866658-fov2f84sa48718kffsb6p83k34p3j507.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.futbook",
+            "certificate_hash": "a8f693a21b56dbfb49d3173615494685efb0cdd4"
+          }
+        },
+        {
+          "client_id": "13869866658-oo372rkuk2erk5omuuv09vmj1k7pmtbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXFaAh0ZYm0t9xfHY7Cr46b-WXdSK-tMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13869866658-oo372rkuk2erk5omuuv09vmj1k7pmtbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#006064</color>
+    <color name="colorPrimaryDark">#00363a</color>
+    <color name="colorPrimaryLight">#428e92</color>
+    <color name="colorAccent">#ffc400</color>
+    <color name="colorAccentDark">#c79400</color>
+    <color name="colorAccentLight">#fff64f</color>
+
+    <!--  ADICIONALES  -->
+    <color name="editTextColorDark">#7B7E7C</color>
+    <color name="bgCardView">#135E13</color>
+    <color name="green">#1b5e20</color>
+    <color name="gray">#676767</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="red">#D20404</color>
+    <color name="black">#000000</color>
+</resources>

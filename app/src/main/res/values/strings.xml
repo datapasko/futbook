@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">FutBook</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="logo">LOGO</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="text_button_login">Login</string>
+    <string name="register">Register</string>
+    <string name="error_login_response">Error al iniciar sesión</string>
+    <string name="toast_bad_credentials">Credentials not validates</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="registrate">Registrate</string>
+    <string name="mi_perfil">Mi perfil</string>
+    <string name="categorias">Categorias</string>
+    <string name="players">Jugadores</string>
+    <string name="my_club">Mi Club</string>
+    <string name="navegation_header">Navegation header</string>
+    <string name="email_test">test@email.com</string>
+    <string name="open_navigation_drawer">Abrir navigation drawer</string>
+    <string name="closed_navigation_drawer">Cerrar navigation drawer</string>
+    <string name="my_clubs">Mis Clubes</string>
+    <string name="my_matches">Mis Partidos</string>
+    <string name="cv_sports">CV Deportivo</string>
+    <string name="crear_un_club">Crear un club</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="logo_register">logo_register</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
